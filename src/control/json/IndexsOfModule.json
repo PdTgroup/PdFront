@@ -1,0 +1,106 @@
+{
+  "IndexsOfModule": {
+    "indexCycle": {
+      "time":"1903",
+      "tid":3
+    },
+    "Module": {
+      "id":2,
+      "module":"着力公司管理效率提升",
+      "sum":500.0,
+      "value":61.111,
+      "weight":55.0,
+      "allscore":450.0
+    },
+    "IndexValue":[
+      {
+        "datas":13.357,
+        "index":null,
+        "indexName":"成本效益",
+        "cityName":null,
+        "did":22000,
+        "indexScore": 20
+      },
+      {
+        "datas":1.296,
+        "index":null,
+        "indexName":"电网投入效率",
+        "cityName":null,
+        "did":22003,
+        "indexScore": 5
+      },
+      {
+        "datas":0.02,
+        "index":null,
+        "indexName":"工程转资率",
+        "cityName":null,
+        "did":22006,
+        "indexScore": 1
+      },
+      {
+        "datas":7.0,
+        "index":null,
+        "indexName":"两算审计完成率",
+        "cityName":null,
+        "did":22007,
+        "indexScore": 10
+      },
+      {
+        "datas":0.222,
+        "index":null,
+        "indexName":"中压线损率",
+        "cityName":null,
+        "did":22009,
+        "indexScore": 1
+      },
+      {
+        "datas":0.322,
+        "index":null,
+        "indexName":"台区线损率",
+        "cityName":null,
+        "did":22012,
+        "indexScore": 0.5
+      },
+      {
+        "datas":7.0,
+        "index":null,
+        "indexName":"95598工单处理及时率",
+        "cityName":null,
+        "did":22015,
+        "indexScore": 10
+      },
+      {
+        "datas":7.85,
+        "index":null,
+        "indexName":"业扩报装时限达标率",
+        "cityName":null,
+        "did":22018,
+        "indexScore": 15
+      },
+      {
+        "datas":12.471,
+        "index":null,
+        "indexName":"百万客户投诉率",
+        "cityName":null,
+        "did":22021,
+        "indexScore": 20
+      },
+      {
+        "datas":0.318,
+        "index":null,
+        "indexName":"综合计划执行率",
+        "cityName":null,
+        "did":22024,
+        "indexScore": 1
+      },
+      {
+        "datas":5.096,
+        "index":null,
+        "indexName":"主网规划目标完成率",
+        "cityName":null,
+        "did":22027,
+        "indexScore": 10
+      }
+    ]
+  }
+}
